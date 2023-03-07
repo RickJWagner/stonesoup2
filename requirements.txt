@@ -1,2 +1,2 @@
-http.server==0.6
-socketserver==0.4
+http.server
+socketserver
